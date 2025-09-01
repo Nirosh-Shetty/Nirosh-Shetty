@@ -11,88 +11,54 @@ I enjoy building web apps that make a real difference. I’ve worked on projects
 * ✉️  You can contact me at [niroshshetty2020@gmail.com](mailto:niroshshetty2020@gmail.com)
 * 🧠  I'm currently learning Next.js, TypeScript and Python
 
+### Skills
+
+#### Languages
 <p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" />
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
-  </a>
-  <a href="https://metamask.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" alt="MetaMask" title="MetaMask" width="36" height="36" />
-  </a>
-  <a href="https://wordpress.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
-  </a>
-  <a href="https://framer.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  </a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src=".../java-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src=".../javascript-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src=".../typescript-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src=".../python-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src=".../cplusplus-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+</p>
+
+#### Frontend
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src=".../react-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src=".../nextjs-colored-dark.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src=".../tailwindcss-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://mui.com/" target="_blank"><img src=".../materialui-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://chakra-ui.com/" target="_blank"><img src=".../chakra-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://ui.shadcn.com/" target="_blank"><img src=".../shadcnui-colored-dark.svg" width="36" height="36" style="margin: 5px;" /></a>
+</p>
+
+#### Backend
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank"><img src=".../nodejs-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src=".../express-colored-dark.svg" width="36" height="36" style="margin: 5px;" /></a>
+</p>
+
+#### Databases
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src=".../mongodb-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src=".../postgresql-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src=".../firebase-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+</p>
+
+#### Tools & Platforms
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src=".../git-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src=".../aws-colored-dark.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src=".../docker-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src=".../ubuntu-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+</p>
+
+#### Design / Others
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src=".../figma-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://framer.com" target="_blank"><img src=".../framer-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://metamask.io/" target="_blank"><img src=".../metamask-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
+  <a href="https://wordpress.com" target="_blank"><img src=".../wordpress-colored.svg" width="36" height="36" style="margin: 5px;" /></a>
 </p>
 
 
