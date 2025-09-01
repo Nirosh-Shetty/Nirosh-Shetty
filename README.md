@@ -9,7 +9,7 @@ I enjoy building web apps that make a real difference. I’ve worked on projects
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Portfolio](http://niroshportfolio.vercel.app)
 * ✉️  You can contact me at [niroshshetty2020@gmail.com](mailto:niroshshetty2020@gmail.com)
-* 🧠  I'm currently learning Next.js, TypeScript and Python
+* 🧠  I'm currently learning Next.js, TypeScript, Docker, and Python
 
 ## 🛠️ Tech Stack
 
