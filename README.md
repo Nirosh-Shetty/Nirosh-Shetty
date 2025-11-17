@@ -15,7 +15,7 @@ I enjoy building web apps that make a real difference. I’ve worked on projects
 
 - **Programming Languages**: Java | Python | JavaScript | TypeScript  
 - **Frontend Development**: HTML | CSS | React.js | Next.js | Redux | TailwindCSS  
-- **Backend Development**: Node.js | Express.js | MongoDB | PostgreSQL | Redis  
+- **Backend Development**: Node.js | Express.js | MongoDB | PostgreSQL | Redis  | RabbitMQ
 - **Tools & Technologies**: Docker | Git | Figma | Postman  
 - **Cloud Platforms**: AWS (ECR, ECS, S3) | Vercel  
 
