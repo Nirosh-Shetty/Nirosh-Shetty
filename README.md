@@ -4,8 +4,7 @@ Hi 👋 My name is Nirosh
 Software Engineer
 -----------------
 
-I enjoy building web apps that make a real difference. I’ve worked on projects ranging from finance tools to college management systems and e-commerce platforms. Along the way, I’ve picked up React, Next.js, Node, and other technologies — basically whatever helps turn ideas into working products.
-
+I enjoy building software that makes a real difference. 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Portfolio](http://niroshportfolio.vercel.app)
 * ✉️  You can contact me at [niroshshetty2020@gmail.com](mailto:niroshshetty2020@gmail.com)
